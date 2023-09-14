@@ -1,0 +1,7 @@
+.container{
+   
+    display: flex;     /* Adding flexbox makes it easier to change position and etc*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;      /* This makes the container bigger and take space of the whole page.*/
+}
